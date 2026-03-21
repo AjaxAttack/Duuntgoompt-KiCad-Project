@@ -9,9 +9,13 @@
 - Qwiic I2C Connectors for other sensor modules
 ### KiCad 10 Full Render
 <img width="2352" height="1288" alt="image" src="https://github.com/user-attachments/assets/669f7488-3a73-4b28-96b9-5d687437d935" />
+
 ### Top-level Schematic Image
-<img width="3508" height="2480" alt="image" src="https://github.com/user-attachments/assets/82c6e6b1-0038-4bea-bd6e-f55c7ea8ce83" />
+<img width="1609" height="1104" alt="image" src="https://github.com/user-attachments/assets/194fbb30-2701-4f40-b729-40a6a2ba92b7" />
+
 ### Power Schematic 
-<img width="3508" height="2480" alt="image" src="https://github.com/user-attachments/assets/c8d9b2fc-dc3f-4103-9071-99fb0a78e0e8" />
+<img width="1609" height="1105" alt="image" src="https://github.com/user-attachments/assets/f9a4fb78-4f9f-4e35-baaf-35a78f34d08d" />
+
 ### Connectors Schematic
-<img width="3508" height="2480" alt="image" src="https://github.com/user-attachments/assets/12d02d57-1bc6-4854-a25d-08eaa89f2286" />
+<img width="1608" height="1103" alt="image" src="https://github.com/user-attachments/assets/a7ae3af1-7837-4d39-aa4c-5b0cb68ea9ad" />
+
