@@ -4,11 +4,13 @@
 - Esp32s3 based system
 - Wifi compatible
 - USB C
-- 1x26 Pin Connections
+- 1x26 Pin M Connections Suitable for breadboard plug-n-use
 - Solder Bridge LED Indicators
 - Qwiic I2C Connectors for other sensor modules
-### KiCad 10 Full Render
-[<img width="2352" height="1288" alt="image" src="https://github.com/user-attachments/assets/669f7488-3a73-4b28-96b9-5d687437d935" />](https://media.discordapp.net/attachments/422067755089657857/1485416390675533874/output.gif?ex=69c1c951&is=69c077d1&hm=01a83a2d3637365ddce3021c1bbb8b679dc726cc05c91e4003776f61b03d7fba&=)
+### Duuntgoompt - Blender Full Render
+
+### Duuntgoompt Overhead
+<img width="1691" height="1327" alt="image" src="https://github.com/user-attachments/assets/25e0fe2d-5fef-4b42-aae9-5019ba93c839" />
 
 ### Top-level Schematic Image
 <img width="1609" height="1104" alt="image" src="https://github.com/user-attachments/assets/194fbb30-2701-4f40-b729-40a6a2ba92b7" />
