@@ -8,6 +8,7 @@
 - Solder Bridge LED Indicators
 - Qwiic I2C Connectors for other sensor modules
 ### Duuntgoompt - Blender Full Render
+![output gif fuuntboompt](https://github.com/user-attachments/assets/e253e870-259f-48e1-bb21-5b121c0656ef)
 
 ### Duuntgoompt Overhead
 <img width="1691" height="1327" alt="image" src="https://github.com/user-attachments/assets/25e0fe2d-5fef-4b42-aae9-5019ba93c839" />
