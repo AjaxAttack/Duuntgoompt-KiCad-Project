@@ -2,7 +2,7 @@
 ## This repo is the Duuntgoompt project files home.
 ### The Duuntgoompt PCB, with features:
 - Esp32s3 based system
-- Wifi compatible
+- Wifi & Bluetooth compatible
 - USB C
 - 1x26 Pin M Connections Suitable for breadboard plug-n-use
 - Solder Bridge LED Indicators
